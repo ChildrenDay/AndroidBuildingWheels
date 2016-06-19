@@ -6,3 +6,4 @@
 :------------- | :------------- | :------------- | :-------------
 [SwipeBackActivity](https://github.com/binIoter/SwipeBackActivity) | [binIoter](https://github.com/binIoter) |右滑关闭Activity | 2016/6/1
 [CommonAdapter](https://github.com/binIoter/CommonAdapter) | [binIoter](https://github.com/binIoter) |通用的Adapter | 2016/6/2
+[GuideView](https://github.com/binIoter/GuideView) | [binIoter](https://github.com/binIoter) | 新手引导GuideView | 2016/6/19
